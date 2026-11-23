@@ -1,3 +1,4 @@
 {
-  "cardLimit": 3
+  "cardLimit": 3,
+  "bannerImagePath": "/cdn/banner.png"
 }
